@@ -8,14 +8,10 @@ This project is the beginning of my personal portfolio website built with **HTML
 This repository is the starting point of my **personal portfolio website**, built using **HTML**.  
 At the same time, it also serves as a guide to understanding the basics of HTML step by step.  
 
----
-
 ## 1. What is HTML?
 
 **HTML (HyperText Markup Language)** is the standard language used to create webpages.  
 It defines the **structure** of a webpage, while **CSS** adds design and **JavaScript** adds interactivity.  
-
----
 
 ## 2. Key Concepts
 
@@ -27,10 +23,7 @@ Example:
 ```html
 <p>This is a paragraph.</p>
 
-
----
-
-2.2 Tag
+## 2.2 Tag
 
 A tag is what you write inside angle brackets (< >) to define an element.
 
@@ -38,11 +31,7 @@ Opening tag: <p>
 
 Closing tag: </p>
 
-
-
----
-
-2.3 Attribute
+## 2.3 Attribute
 
 Attributes provide extra information about an element.
 They are always written in the opening tag.
@@ -55,11 +44,7 @@ href = attribute
 
 "https://example.com" = value
 
-
-
----
-
-2.4 Types of Elements
+##2.4 Types of Elements
 
 Block-level elements
 
@@ -67,19 +52,13 @@ Start on a new line and take up the full width.
 
 Examples: <div>, <h1>, <p>, <section>
 
-
 Inline elements
 
 Do not start on a new line. They flow inside text.
 
 Examples: <span>, <a>, <strong>, <em>
 
-
-
-
----
-
-2.5 Empty (Self-closing) Elements
+## 2.5 Empty (Self-closing) Elements
 
 Some elements don’t have closing tags.
 
@@ -89,10 +68,7 @@ Examples:
 <br />
 <hr />
 
-
----
-
-3. Basic Structure of an HTML Document
+## 3. Basic Structure of an HTML Document
 
 Every HTML document follows this structure:
 
@@ -122,12 +98,7 @@ Explanation
 
 4. <body> → Contains all visible content.
 
-
-
-
----
-
-4. Commonly Used Tags
+## 4. Commonly Used Tags
 
 Headings
 
@@ -160,10 +131,7 @@ Lists
   <li>Second</li>
 </ol>
 
-
----
-
-5. Semantic HTML
+## 5. Semantic HTML
 
 Semantic elements clearly describe their meaning.
 
@@ -190,10 +158,7 @@ Example:
   </nav>
 </header>
 
-
----
-
-6. Metadata & SEO Basics
+## 6. Metadata & SEO Basics
 
 Inside <head>, you can add metadata:
 
@@ -210,11 +175,7 @@ author → Page author.
 
 viewport → Makes the page responsive on mobile.
 
-
-
----
-
-7. Quick Reference
+## 7. Quick Reference
 
 Element: <p>Hello</p>
 
@@ -228,27 +189,14 @@ Block elements: <div>, <p>, <h1>
 
 Inline elements: <a>, <span>, <strong>
 
-
-
----
-
-8. Next Steps in Learning
+## 8. Next Steps in Learning
 
 1. Add CSS for styling (colors, layout, fonts).
 
-
 2. Use Flexbox/Grid for responsive design.
-
 
 3. Add JavaScript for interactivity.
 
-
 4. Learn about forms and inputs.
 
-
 5. Explore accessibility (ARIA, alt text, labels).
-
-
-
-
----
