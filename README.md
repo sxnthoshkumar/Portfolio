@@ -1,4 +1,4 @@
-# Portfolio Project
+use# Portfolio Project
 
 This project is the beginning of my personal portfolio website built with **HTML**.  
 
@@ -43,7 +43,7 @@ href = attribute
 
 "https://example.com" = value
 
-##2.4 Types of Elements
+## 2.4 Types of Elements
 
 Block-level elements
 
@@ -51,11 +51,6 @@ Start on a new line and take up the full width.
 
 Examples: <div>, <h1>, <p>, <section>
 
-Inline elements
-
-Do not start on a new line. They flow inside text.
-
-Examples: <span>, <a>, <strong>, <em>
 
 ## 2.5 Empty (Self-closing) Elements
 
