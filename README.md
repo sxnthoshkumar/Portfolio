@@ -21,7 +21,7 @@ It usually has an **opening tag**, some **content**, and a **closing tag**.
 
 Example:  
 ```html
-<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>```
 
 ## 2.2 Tag
 
